@@ -1,0 +1,210 @@
+// [
+//   {
+//   "_id": "642c155b2c4774f05c36eeb7",
+//   "name": "Abaya (Black & White Color)",
+//   "image": "/AbayaBWC.jpg",
+//   "category": "Abaya",
+//   "price": 4799,
+//   "description": "This black and white abaya is made with premium quality Nidha fabric, in a loose cutting to give a gracious lustrous fall. It features an open front with an attached inner (white color) and a relaxed bow belt"
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeb4",
+//   "name": "Abaya (Black & White Color)",
+//   "image": "/AbayaBWC.jpg",
+//   "category": "Abaya",
+//   "price": 4799,
+//   "description": "This black and white abaya is made with premium quality Nidha fabric, in a loose cutting to give a gracious lustrous fall. It features an open front with an attached inner (white color) and a relaxed bow belt"
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee9a",
+//   "name": "Coleus Silk Hijab",
+//   "image": "/ColeusHijab.jpg",
+//   "category": "Hijab",
+//   "price": 5520,
+//   "description": "These scarves are very light, soft, natural stretched and easy to be folded into bags with no crease. They are not very silky and slippery but skinny, breathable and elegant which makes them an essential one to have in your wardrobe."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeb1",
+//   "name": "Abaya (Black & White Color)",
+//   "image": "/AbayaBWC.jpg",
+//   "category": "Abaya",
+//   "price": 4799,
+//   "description": "This black and white abaya is made with premium quality Nidha fabric, in a loose cutting to give a gracious lustrous fall. It features an open front with an attached inner (white color) and a relaxed bow belt"
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eead",
+//   "name": "Abaya (Black & White Color)",
+//   "image": "/AbayaBWC.jpg",
+//   "category": "Abaya",
+//   "price": 4799,
+//   "description": "This black and white abaya is made with premium quality Nidha fabric, in a loose cutting to give a gracious lustrous fall. It features an open front with an attached inner (white color) and a relaxed bow belt"
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeae",
+//   "name": "Abaya (Black & White Color)",
+//   "image": "/AbayaBWC.jpg",
+//   "category": "Abaya",
+//   "price": 4799,
+//   "description": "This black and white abaya is made with premium quality Nidha fabric, in a loose cutting to give a gracious lustrous fall. It features an open front with an attached inner (white color) and a relaxed bow belt"
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeaa",
+//   "name": "Batoul Jilbab",
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step.",
+//   "image": "/BatoulJilbab.jpg",
+//   "category": "Jilbab",
+//   "price": 5700
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee7c",
+//   "name": "VALIANT LONG COAT",
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step.",
+//   "image": "/VLC.jpg",
+//   "category": "popular",
+//   "price": 7992
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee7a",
+//   "name": "Rafeef Abaya",
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step.",
+//   "image": "/sampleimage.jpg",
+//   "category": "popular",
+//   "price": 7992
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee74",
+//   "name": "Baraka Abaya",
+//   "image": "/BarakaAbaya.jpg",
+//   "category": "popular",
+//   "price": 7900,
+//   "description": "The Baraka Abaya is our stylish front open abaya, designed with panels on the front and back to give it a fashionable frock-style look. It features cuff sleeves for added elegance and is crafted from premium Saudi Nidah fabric."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee712",
+//   "name": "Habiba Abaya",
+//   "image": "/HabibaAbaya.jpg",
+//   "category": "popular",
+//   "price": 19000,
+//   "description": "The Habiba Abaya, an exclusive handwork masterpiece with traditional embellishments and pleats. Crafted from luxurious Saudi Nidah fabric, this Front Open abaya includes a matching scarf for a complete look. Please note that a slit beneath the abaya is recommended (not included in the product)."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee7x",
+//   "name": "Rafeef Abaya",
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step.",
+//   "image": "/sampleimage.jpg",
+//   "category": "popular",
+//   "price": 7992
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee94",
+//   "name": "Maroon - Crimps",
+//   "image": "/Maroon_Crimps.jpg",
+//   "category": "Hijab",
+//   "price": 489,
+//   "description": "These scarves are very light, soft, natural stretched and easy to be folded into bags with no crease. They are not very silky and slippery but skinny, breathable and elegant which makes them an essential one to have in your wardrobe."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee9e",
+//   "name": "Pink Branch Silk Hijab",
+//   "image": "/PinkHijab.jpg",
+//   "category": "Hijab",
+//   "price": 552,
+//   "description": "These scarves are very light, soft, natural stretched and easy to be folded into bags with no crease. They are not very silky and slippery but skinny, breathable and elegant which makes them an essential one to have in your wardrobe."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eea6",
+//   "name": "Rawya Jilbab (Kids)",
+//   "image": "/RawyaJilbabKids.jpg",
+//   "category": "Jilbab",
+//   "price": 4300,
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeaf",
+//   "name": "Elegant Maxi Abaya (Pastel)",
+//   "image": "/MaxiAbaya.jpg",
+//   "category": "Abaya",
+//   "price": 4299,
+//   "description": "This pastel maxi abaya is designed with a trendy and modern style, providing you with dual benefits. It is made with a formal collar and with Nidha fabric"
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eea4",
+//   "name": "Maysa Jilbab",
+//   "image": "/MaysaJilbab.jpg",
+//   "category": "Jilbab",
+//   "price": 5700,
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eea5",
+//   "name": "Nora Jilbab",
+//   "image": "/NoraJilbab.jpg",
+//   "category": "Jilbab",
+//   "price": 5999,
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee7f",
+//   "name": "Rafeef Abaya",
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step.",
+//   "image": "/sampleimage.jpg",
+//   "category": "popular",
+//   "price": 7992
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eea8",
+//   "name": "Plain Jilbab - Garnet",
+//   "image": "/Plain Jilbab.jpg",
+//   "category": "Jilbab",
+//   "price": 5516,
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeb0",
+//   "name": "Abaya (Black & White Color)",
+//   "image": "/AbayaBWC.jpg",
+//   "category": "Abaya",
+//   "price": 4799,
+//   "description": "This black and white abaya is made with premium quality Nidha fabric, in a loose cutting to give a gracious lustrous fall. It features an open front with an attached inner (white color) and a relaxed bow belt"
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeb3",
+//   "name": "Crimson Front Open Abaya",
+//   "image": "/CrimsonAbaya.jpg",
+//   "category": "Abaya",
+//   "price": 2999,
+//   "description": "This printed abaya is made with premium quality Nidha fabric, in a loose cutting to give a gracious lustrous fall. It features an open front with an attached inner and a relaxed bow belt. It can be paired with contrasting scarves to make it a timeless staple piece."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeb5",
+//   "name": "Amren Abaya",
+//   "image": "/AmrenAbaya.jpg",
+//   "category": "Abaya",
+//   "price": 2799,
+//   "description": " Our Stunning Classic Red Floral Print Front-Open Abaya, With an inner belt, adds a feminine touch and brings in a blend of class, luxury, and elegance to your modest style."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeb6",
+//   "name": " Demir Abaya ",
+//   "image": "/DemirAbaya.jpg",
+//   "category": "Abaya",
+//   "price": 3400,
+//   "description": "Our Stunning Black Classic Front-Open Abaya, With pintex on the Cuffs of the abaya and on the bottom of the abaya, adds a feminine touch and brings in a blend of class, luxury, and elegance to your modest style."
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36eeb8",
+//   "name": "Abaya (Black & White Color)",
+//   "image": "/AbayaBWC.jpg",
+//   "category": "Abaya",
+//   "price": 4799,
+//   "description": "This black and white abaya is made with premium quality Nidha fabric, in a loose cutting to give a gracious lustrous fall. It features an open front with an attached inner (white color) and a relaxed bow belt"
+//   },
+//   {
+//   "_id": "642c155b2c4774f05c36ee7e",
+//   "name": "Rafeef Abaya",
+//   "description": "Featuring fancy cuff sleeves, an elastic skirt, side pocket, and Niqab ties for your convenience. Experience premium design and quality, along with breathability and lightness in every step.",
+//   "image": "/sampleimage.jpg",
+//   "category": "popular",
+//   "price": 7992
+//   }
+//   ]
